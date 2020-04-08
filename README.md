@@ -6,9 +6,7 @@ The goal of this competition is to predict ‘the unit sales of various products
 
 
 Link to the Kaggle competition: https://www.kaggle.com/c/m5-forecasting-accuracy/
-
 Link to the competition website with guidelines: https://mofc.unic.ac.cy/m5-competition/
-
 Link to the competition repositiry: https://github.com/Mcompetitions/M5-methods
 
 ### Domain Background
