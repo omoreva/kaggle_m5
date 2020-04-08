@@ -26,7 +26,7 @@ sell_prices.csv - Contains information about the price of the products sold per 
 sales_train_evaluation.csv - Available once month before competition deadline. Will include sales [d_1 - d_1941]
 
 ### Solution
-I am going to explore time series forecasting models (like ARIMA) and tree based algorithms like RandomForest and XGboost to make the predictions.
+I will use light GBM algorithm  to make the predictions.
 
 ### Benchmark
 For a selected item  sold on a particular day the benchmark forecast is the average number of items sold at the same day of the week.
