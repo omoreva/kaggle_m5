@@ -3,9 +3,13 @@
 
 ### Overview
 The goal of this competition is to predict ‘the unit sales of various products sold in the USA by Walmart.’ (All citations in this document if not stated overwise are from the M5 Forecasting - Accuracy challenge https://www.kaggle.com/c/m5-forecasting-accuracy/overview/description) 
+
+
 Link to the Kaggle competition: https://www.kaggle.com/c/m5-forecasting-accuracy/
+
 Link to the competition website with guidelines: https://mofc.unic.ac.cy/m5-competition/
 
+Link to the competition repositiry: https://github.com/Mcompetitions/M5-methods
 
 ### Domain Background
 ‘Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores’. A good forecasting model helps retailers to plan marketing companies, manage cash flow, manage their inventory and optimize their supply chain leading to increase of profit, whereas ‘inaccurate business forecasts could result in actual or opportunity losses.’  Forecasting is an active area of research, in this project I concentrate on quantitative methods, such as time series analysis and regression methods.  
