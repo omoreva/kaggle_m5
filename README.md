@@ -42,3 +42,8 @@ The project contains three notebooks:
   1. items sold 364 days ago 
   2. average items sold on the same weekday
 - 03_lightGBM: lightGBM model is fit to data
+
+### License
+
+The content of this repository is licensed under a [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/). 
+
