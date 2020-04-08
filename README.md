@@ -18,12 +18,13 @@ Link to the competition repositiry: https://github.com/Mcompetitions/M5-methods
 The goal of this competition is to ‘to forecast daily sales for the next 28 days’ based on the data from ‘stores in three US States (California, Texas, and Wisconsin)’ . The data ‘includes item level, department, product categories, and store details. In addition, it has explanatory variables such as price, promotions, day of the week, and special events. Together, this robust dataset can be used to improve forecasting accuracy.’
 
 ### Datasets and Inputs
-The data provided by the Kaggle platform contain five files. 
-calendar.csv - Contains information about the dates on which the products are sold.
-sales_train_validation.csv - Contains the historical daily unit sales data per product and store [d_1 - d_1913]
-sample_submission.csv - The correct format for submissions.
-sell_prices.csv - Contains information about the price of the products sold per store and date.
-sales_train_evaluation.csv - Available once month before competition deadline. Will include sales [d_1 - d_1941]
+The data provided by the [Kaggle platform](https://www.kaggle.com/c/m5-forecasting-accuracy/data) contain five files.
+
+- calendar.csv - Contains information about the dates on which the products are sold.
+- sales_train_validation.csv - Contains the historical daily unit sales data per product and store [d_1 - d_1913]
+- sample_submission.csv - The correct format for submissions.
+- sell_prices.csv - Contains information about the price of the products sold per store and date.
+- sales_train_evaluation.csv - Available once month before competition deadline. Will include sales [d_1 - d_1941]
 
 ### Solution
 I will use light GBM algorithm  to make the predictions.
