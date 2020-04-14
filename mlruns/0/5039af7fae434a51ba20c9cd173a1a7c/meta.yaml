@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Udacity/Kaggle_M5/02_git/mlruns/0/5039af7fae434a51ba20c9cd173a1a7c/artifacts
+end_time: 1586631473764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 5039af7fae434a51ba20c9cd173a1a7c
+run_uuid: 5039af7fae434a51ba20c9cd173a1a7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1586630590335
+status: 3
+tags: []
+user_id: omore
